@@ -9,15 +9,20 @@ html{
 }
 
 .Header .Menu a:link{
-  display: inline-block;
+
   font-size: 18px;
-  text-align: center;
+
   color: white;
 
 
 }
 
-/* 
+.Header .Menu  {
+  display: inline-block;
+  text-align: center;  
+}
+
+/*
 header img, header nav {
     display: inline-block;
     vertical-align: middle;
