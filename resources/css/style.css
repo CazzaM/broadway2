@@ -9,6 +9,7 @@ html{
 }
 
 .Header .Menu a:link{
+  display: inline-block;
   font-size: 18px;
   text-align: center;
   color: white;
@@ -16,13 +17,22 @@ html{
 
 }
 
+/* 
+header img, header nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
 nav a {
   display: block;
   margin: 0;
   padding: 0:
   padding-top: 2px;
-  padding-bottom: 2px;  
+  padding-bottom: 2px;
 }
+
+ */
 
 .Header h1{
   font-size: 70px;
