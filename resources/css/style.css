@@ -7,7 +7,7 @@ html{
     background-image: url("https://cazzam.github.io/broadway2/resources/images/the-flatiron-building.png");
 }
 
-a:link{
+.Header .Menu a:link{
   font-size: 18px;
   text-align: center;
   color: white;
