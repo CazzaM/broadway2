@@ -9,12 +9,8 @@ html{
 }
 
 .Header .Menu a:link{
-
   font-size: 18px;
-
   color: white;
-
-
 }
 
 
@@ -27,13 +23,9 @@ header img, header nav {
 
  */
 nav a {
-
-text-align: center;
+  text-align: center;
   display: block;
-  margin: 0;
-  padding: 0:
-  padding-top: 2px;
-  padding-bottom: 2px;
+  margin-bottom: 5;
 }
 
 
