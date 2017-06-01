@@ -17,27 +17,26 @@ html{
 
 }
 
-.Header .Menu  {
-  display: inline-block;
-  text-align: center;  
-}
 
 /*
 header img, header nav {
     display: inline-block;
     vertical-align: middle;
+  display: block;
 }
 
-
+ */
 nav a {
-  display: block;
+display: inline-block;
+text-align: center;
+
   margin: 0;
   padding: 0:
   padding-top: 2px;
   padding-bottom: 2px;
 }
 
- */
+
 
 .Header h1{
   font-size: 70px;
