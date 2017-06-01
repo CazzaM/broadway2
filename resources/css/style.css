@@ -22,14 +22,14 @@ html{
 header img, header nav {
     display: inline-block;
     vertical-align: middle;
-  display: block;
+
 }
 
  */
 nav a {
-display: inline-block;
-text-align: center;
 
+text-align: center;
+  display: block;
   margin: 0;
   padding: 0:
   padding-top: 2px;
