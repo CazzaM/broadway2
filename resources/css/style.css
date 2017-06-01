@@ -11,7 +11,7 @@ html{
 .Header .Menu a:link{
   font-size: 18px;
   color: white;
-  margin-bottom: 5;  
+
 }
 
 
@@ -26,7 +26,8 @@ header img, header nav {
 nav a {
   text-align: center;
   display: block;
-
+  margin-top: 5;
+  margin-bottom: 5;
 }
 
 
